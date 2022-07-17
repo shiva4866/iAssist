@@ -1,6 +1,9 @@
 # iAssist
 investors Assist
 
+## Run this command after downloading the repo
+pip install -r requirements.txt
+
 ## To activate virtual environment
 source venv/bin/activate
 
